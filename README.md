@@ -151,16 +151,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📞 Contact
 Made with ❤️ by MuhirwaVerygood
-
-
-# Key improvements made:
-1. Properly formatted all code blocks with language identifiers
-2. Consistent header levels (## for sections, ### for subsections)
-3. Fixed indentation and spacing
-4. Added proper syntax highlighting for bash, python, and plaintext
-5. Made Windows/Linux commands clearly separated
-6. Improved project structure visualization
-7. Consistent bullet point formatting
-8. Better section organization with clear separators
-9. Fixed typos (e.g., "conda" instead of "conda")
-10. Made all commands directly copy-pasteable
